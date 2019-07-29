@@ -1,0 +1,2 @@
+# tugasstrukturdata
+tugaspakamir
